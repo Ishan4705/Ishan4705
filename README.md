@@ -28,9 +28,9 @@
 ---
 
 ### 🌐 Connect with Me:
-- 📫 Email: ishanm.2205@gmail.com
-- 💼 [LinkedIn]([www.linkedin.com/in/ishanm2205](https://www.linkedin.com/in/ishanm2205/))
-- 🐦 [X]([https://x.com/[your-x-handle]](https://x.com/IshanM_2205))
+- 📫 Email: [ishanm.2205@gmail.com](mailto:ishanm.2205@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ishanm2205/)
+- 🐦 [X](https://x.com/IshanM_2205)
 
 ---
 
