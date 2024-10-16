@@ -2,7 +2,7 @@
 
 ### 👀 About Me
 - 🔥 I am passionate about Full Stack Web Development, particularly within the MERN stack and Cloud Technologies.
-- 🌱 Currently, I am enhancing my skills in SASS, React, and TypeScript.
+- 🌱 Currently, I am enhancing my skills in SASS, React, TypeScript, and DSA.
 - 🎯 My goal is to develop scalable, cloud-native applications.
 
 ---
